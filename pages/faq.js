@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
-import C_Link from "../src/components/Link";
+import C_Link from "/src/components/C_Link";
+
 import Head from 'next/head'
 
 export async function getStaticProps(context) {

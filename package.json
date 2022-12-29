@@ -2,6 +2,7 @@
   "name": "alura-cases",
   "version": "0.1.0",
   "private": true,
+  "baseUrl": "./src",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
